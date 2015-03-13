@@ -1,5 +1,5 @@
 Project Tether: MoonPy
-http://code.google.com/p/tether/
+https://github.com/Donkyhotay/MoonPy
 
 
 REQUIREMENTS
