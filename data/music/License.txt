@@ -1,0 +1,28 @@
+The following songs:
+
+beyond atlantis
+scc-command
+essense of light
+grey havens
+ileus part 2
+kingdom of nowhere
+through the light
+meditation
+miracles
+new forest
+sirene song
+vanity
+mr sandman 
+
+were provide courtesy of Nils Ingvarsson <ArchAngel>
+License URL: http://creativecommons.org/licenses/by-sa/3.0/
+
+
+
+Other songs used in MoonPy:
+
+
+Song               |   License URL
+----------------------------------------------------------------------------------
+water.ogg          |   http://creativecommons.org/licenses/by-sa/3.0/
+

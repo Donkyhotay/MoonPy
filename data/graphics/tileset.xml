@@ -1,0 +1,218 @@
+<tileset name="MoonPy Default" path="data/graphics" version="1.0"
+	 tile_width="24" tile_height="24" edge_tile_height="24"
+         panel_width="24" panel_height="24">
+ 
+<file src="terrain/tile_grass.png">
+    <terrain name="grass" x="1" y="1" 
+             width="24" height="24" pixelsalpha="false">
+    <frame slot-x="0" slot-y="0"/>
+  </terrain>
+</file>
+
+<file src="terrain/tile_water.png">
+    <terrain name="water" x="1" y="1" 
+             width="24" height="24" pixelsalpha="false">
+    <frame slot-x="0" slot-y="0"/>
+  </terrain>
+</file>
+
+<file src="terrain/tile_energy.png">
+    <terrain name="energy" x="1" y="1" 
+             width="24" height="24" pixelsalpha="false">
+    <frame slot-x="0" slot-y="0"/>
+  </terrain>
+</file>
+
+<file src="terrain/tile_rocks.png">
+    <terrain name="rocks" x="1" y="1" 
+             width="24" height="24" pixelsalpha="false">
+    <frame slot-x="0" slot-y="0"/>
+  </terrain>
+</file>
+
+
+<file src="terrain/crater.png">
+  <unit name="crater" frames="1" x="1" y="1" 
+        width="72" height="72" pixalalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="weapons/bomb.png">
+  <unit name="bomb" frames="1" x="1" y="1" 
+        width="48" height="48" pixalalpha="true">
+        <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="weapons/cluster.png">
+  <unit name="cluster" frames="1" x="1" y="1" 
+        width="24" height="24" pixalalpha="true">
+        <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="weapons/crawler.png">
+  <unit name="crawler" frames="1" x="1" y="1" 
+        width="48" height="48" pixalalpha="true">
+        <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+<file src="weapons/emp.png">
+  <unit name="emp" frames="1" x="1" y="1" 
+        width="48" height="48" pixalalpha="true">
+        <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="weapons/mines.png">
+  <unit name="mines" frames="1" x="1" y="1" 
+        width="24" height="24" pixalalpha="true">
+        <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="weapons/missile.png">
+  <unit name="missile" frames="1" x="1" y="1" 
+        width="48" height="48" pixalalpha="true">
+        <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="weapons/recall.png">
+  <unit name="recall" frames="1" x="1" y="1" 
+        width="48" height="48" pixalalpha="true">
+        <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="weapons/repair.png">
+  <unit name="repair" frames="1" x="1" y="1" 
+        width="48" height="48" pixalalpha="true">
+        <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="weapons/spike.png">
+  <unit name="spike" frames="1" x="1" y="1" 
+        width="48" height="48" pixalalpha="true">
+        <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="weapons/virus.png">
+  <unit name="virus" frames="1" x="1" y="1" 
+        width="48" height="48" pixalalpha="true">
+        <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="buildings/hub.png">
+  <unit name="hub" frames="1" x="1" y="1" 
+        width="72" height="72" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="buildings/offense.png">
+  <unit name="offense" frames="1" x="1" y="1" 
+        width="72" height="72" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="buildings/tower.png">
+  <unit name="tower" frames="1" x="1" y="1" 
+        width="72" height="72" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="buildings/antiair.png">
+  <unit name="antiair" frames="1" x="1" y="1" 
+        width="72" height="72" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="buildings/balloon.png">
+  <unit name="balloon" frames="1" x="1" y="1" 
+        width="48" height="48" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="buildings/bridge.png">
+  <unit name="bridge" frames="1" x="1" y="1" 
+        width="72" height="72" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="buildings/collector.png">
+  <unit name="collector" frames="1" x="1" y="1" 
+        width="72" height="72" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="buildings/shield.png">
+  <unit name="shield" frames="1" x="1" y="1" 
+        width="72" height="72" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="buildings/t1.png">
+  <unit name="t1" frames="1" x="1" y="1" 
+        width="24" height="24" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="buildings/t2.png">
+  <unit name="t2" frames="1" x="1" y="1" 
+        width="24" height="24" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="buildings/tether.png">
+  <unit name="tether" frames="1" x="1" y="1" 
+        width="24" height="24" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="misc/void.png">
+  <unit name="void" frames="1" x="1" y="1" 
+        width="48" height="48" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="interface/disable_status.png">
+  <unit name="disable_status" frames="1" x="1" y="1" 
+        width="24" height="24" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="interface/virus_status.png">
+  <unit name="virus_status" frames="1" x="1" y="1" 
+        width="24" height="24" pixelalpha="true">
+    <frame dir="0" anim_frame="0" slot-x="0" slot-y="0"/>
+  </unit>
+</file>
+
+<file src="interface/interface1.png">
+
+  <sprite name="panel_right_top" x="0" y="0" 
+          width="327" height="766" pixelalpha="true"/>
+
+</file>
+ 
+</tileset>
+
+
+

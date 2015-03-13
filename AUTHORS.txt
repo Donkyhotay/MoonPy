@@ -1,0 +1,28 @@
+MoonPy was developed by project tether:
+http://code.google.com/p/tether
+
+Primary Contributors to project tether are:
+Kevin Clement <Donkyhotay> (Project Maintainer, Lead Developer)
+Isaac Carroll <Zaak> (Code support, Bugfixing)
+Jon Handy <Mightily> (Bugtesting, Sound Effects)
+David Carroll <GildedBear> (graphics - Mystic Pyramids)
+Stijn De Wachter <stijndw1337> (graphics - NiceCone)
+Nils Ingvarsson <ArchAngel> (Music)
+Mollie Clement <mlc4ctr> (Voice Acting)
+
+
+Special thanks to the OpenRTS team who's open
+sourced code and graphics gave MoonPy a much
+needed jumpstart.
+
+The people who contributed to OpenRTS were:
+
+Project founder and developer:
+Andreas Røsdal <andrearo AT stud.ntnu.no>
+
+Graphics from Hard Vacuum:
+Daniel Cook <daniel.cook AT lostgarden.com>
+
+Graphics: 
+Oliver Stannus <oliver.stannus AT gmail.com>
+
